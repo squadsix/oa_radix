@@ -43,7 +43,10 @@ z-index: 1000;
       margin-left: -20px;
       margin-right: -20px;
       padding: 5px $gridGutterWidth 0;
-      background-color: #003853;
+      background-color: #010007;
+      background-image: url("../images/workshop_banner.jpg");
+      background-position: left center;
+      background-size: contain;
       .oa-menu-banner {
         padding-bottom: 0;
       }
